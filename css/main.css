@@ -1047,7 +1047,7 @@ input.text:focus {
 }
 
 
-@media ( min-width: 400px ) {
+@media ( min-width: 100px ) {
 	.hero-home {
 		background-color: #5c6164;
 		background-image: url("../img/frame-1.jpg");
