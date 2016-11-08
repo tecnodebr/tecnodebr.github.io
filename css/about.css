@@ -20,7 +20,7 @@
 
 .hero-careers {
 	position: relative;
-	
+
 	padding: 0;
 
 	height: auto;
@@ -36,7 +36,7 @@
 
 @media ( min-width: 992px ) {
 
-	.hero-careers { 
+	.hero-careers {
 		height: 80%;
 		/* height: calc(100% - 135px); */
 		min-height: 590px;
@@ -46,8 +46,8 @@
 }
 
 @media ( min-width: 1200px ) {
-	
-	.hero-careers { 
+
+	.hero-careers {
 		height: calc(100% - 145px);
 		max-height: 800px;
 	}
@@ -55,8 +55,8 @@
 }
 
 @media ( min-width: 1320px ) {
-	
-	.hero-careers { 
+
+	.hero-careers {
 		height: calc(100% - 154px);
 	}
 
@@ -67,7 +67,7 @@
 	padding-top: 30px;
 	padding-bottom: 185px;
 
-	background: url("../img/hero.jpg") 140px 100% no-repeat;
+	background: url("../img/app1.png") 140px 100% no-repeat;
 	background-size: 240px;
 }
 
@@ -186,7 +186,7 @@
 }
 
 .active .carousel-item {
-	
+
 }
 
 /* listings */
@@ -225,7 +225,7 @@
 	.level-careers-overview .inline-tabs {
 		display: block;
 	}
-	
+
 }
 
 .level-careers-overview blockquote {
@@ -276,7 +276,7 @@
 	display: block;
 
 	opacity: .3;
-	
+
 	font-weight: 700;
 	font-style: normal;
 	font-size: 14px;
